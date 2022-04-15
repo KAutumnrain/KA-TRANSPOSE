@@ -13,7 +13,7 @@ for now.
 Note: I'm still VERY newbish at 3D modeling, and I haven't quite come up with a way to
 give that customization method in any easy form outside of moddifying the models themselves.
 
-Models will be released after I'm confident I've squashed all bugs
+Models will be released after I'm confident I've squashed ~~all~~ most glaring bugs
 
 
 
