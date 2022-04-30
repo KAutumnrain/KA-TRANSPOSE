@@ -11,7 +11,7 @@ I'd like to have a few things for this, so this case should be treated as a work
 for now. 
 
 Note: I'm still VERY newbish at 3D modeling, and I haven't quite come up with a way to
-give that customization method in any easy form outside of moddifying the models themselves.
+give that customization method in any easy form outside of modifying the models themselves.
 
 Models will be released after I'm confident I've squashed ~~all~~ most glaring bugs
 
